@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @osismann, researcher in material science. 
+- 👋 Hi, I’m Orhan, researcher in material science. 
 - 👀 I’m interested in scientific mathematical models and applications.
 - 🌱 I’m currently learning rheological mathematical models.
-- 💞️ I’m looking to collaborate on scientific models and applications.
 - 📫 How to reach me orhansismann@gmail.com; orhan.sisman@tnuni.sk
 
 <!---
